@@ -1,2 +1,26 @@
-# DSA-in-JAVA
-DSA only for practice  ( ALL DSA QUESTION IN JAVA )
+# Java Practice ☕
+
+This repository contains my Java practice code.
+
+I am learning Java and uploading programs regularly for practice.
+
+## Covered Topics
+
+* Variables
+* Data Types
+* Input Output
+* If Else
+* Loops
+* Arrays
+* Functions
+* OOPs Basics
+* Patterns
+
+## Goal
+
+Improve Java programming skills and build strong coding basics.
+
+---
+
+Learning Java step by step 🚀
+

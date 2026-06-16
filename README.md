@@ -8,6 +8,8 @@ I am learning Java and uploading programs regularly for practice.
 * Binary Search
 * Linear Search
 * Basic math
+* Has Map
+* Two pointers
 * Variables
 * Data Types
 * Input Output

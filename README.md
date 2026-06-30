@@ -6,6 +6,7 @@ I am learning Java and uploading programs regularly for practice.
 
 ## Covered Topics
 * Binary Search
+* Binary Tree
 * Linear Search
 * Basic math
 * Has Map

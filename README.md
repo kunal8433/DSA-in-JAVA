@@ -20,6 +20,7 @@ I am learning Java and uploading programs regularly for practice.
 * Functions
 * OOPs Basics
 * Patterns
+* Move Zero
 
 ## Goal
 

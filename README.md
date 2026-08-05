@@ -2,7 +2,7 @@
 
 This repository contains my Java practice code.
 
-I am learning Java and uploading programs regularly for practice.
+I am learning Java and uploading programs regularly for practice..
 
 ## Covered Topics
 * Binary Search

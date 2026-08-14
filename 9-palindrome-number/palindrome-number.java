@@ -1,7 +1,6 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        String s = ""+x;
-        return s.equals(new StringBuilder(s).reverse().toString());
-        
+        String sc = ""+x;
+        return sc.equals(new StringBuilder(sc).reverse().toString());
     }
 }

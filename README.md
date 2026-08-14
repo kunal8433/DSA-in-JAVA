@@ -21,6 +21,7 @@ I am learning Java and uploading programs regularly for practice..
 * OOPs Basics
 * Patterns
 * Move Zero
+# Revesion > Study
 
 ## Goal
 
